@@ -2,3 +2,4 @@ Git is free
 Git is a control system
 Git is free under the GPL
 Git has a mutable index called stage
+Git tracks changes
